@@ -8,7 +8,7 @@ module.exports = {
       'mobile': '100px',
       // => @media (min-width: 640px) { ... }
 
-      'tab': '600px',
+      'tab': '681px',
       // => @media (min-width: 1024px) { ... }
 
       'desktop': '1280px',
